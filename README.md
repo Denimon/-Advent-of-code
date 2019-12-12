@@ -1,2 +1,5 @@
 # -Advent-of-code
-2019 advent of code
+My solutions to this year Advent of code.
+
+https://adventofcode.com/
+
